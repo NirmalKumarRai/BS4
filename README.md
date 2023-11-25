@@ -1,2 +1,2 @@
 # BS4
-web scrapping by using bs4's BeautifulSoup
+web scrapping a e commerce site MRO supply by using bs4's BeautifulSoup
